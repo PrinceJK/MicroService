@@ -17,7 +17,7 @@ namespace CommandsService.Controllers
         {
             Console.WriteLine("--> Inbond POST # Command Service #");
 
-            return Ok("Inbond test");
+            return Ok("Inbond test of Plartforms Controller");
         }
     }
 }
